@@ -4,7 +4,8 @@ local Frame = Instance.new("Frame")
 local Exit = Instance.new("TextButton")
 local OpenGui = Instance.new("ImageButton")
 local Title = Instance.new("TextLabel")
-local Line = Instance.new("TextLabel")
+local Line = Instance.new("TextLabel"). 
+
 local Line1 = Instance.new("TextLabel")
 local FrameMain = Instance.new("Frame")
 local FrameMain2 = Instance.new("Frame")
